@@ -2,6 +2,17 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+json
+
+10
+what are hooks
+what is state
+what is className=cn
+
+useEffect(()
+route handler
+mongodb queries
+
 First, run the development server:
 
 ```bash
