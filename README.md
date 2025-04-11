@@ -13,6 +13,12 @@ useEffect(()
 route handler
 mongodb queries
 
+async
+/ awaitinterface
+promise
+map
+items.map
+... items
 First, run the development server:
 
 ```bash
